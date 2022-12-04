@@ -44,6 +44,16 @@ Finally we are implementing UnitOfWork to allow multiple operations to be clubbe
 Microsoft also suggests to make use of such pattern.  
 And lastly this is covered by implementing an IDisposable interface to mark for Garbage Collection.  
 
+Area of Improvement :  
+	1. I definitely believe this App can be further improved on the Database side by applying Normalization on table structure   
+	   which can be done by altering Domain models but for the sake of Data Presentation I am currently using one single table.  
+	   
+	   
+
+
+I would like to thank Adactin for providing me the oppurtunity to create this POC.  
+
+
 
 
 
