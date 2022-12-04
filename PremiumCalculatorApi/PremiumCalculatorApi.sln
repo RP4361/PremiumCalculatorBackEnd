@@ -3,11 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremiumCalculatorApi", "PremiumCalculatorApi.csproj", "{C11AF03F-A5A1-4E88-BC48-C19E9E0CE63A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PremiumCalculatorApi", "PremiumCalculatorApi.csproj", "{C11AF03F-A5A1-4E88-BC48-C19E9E0CE63A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{4042AB02-61E0-4FEB-8122-A1E27403519C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "..\Domain\Domain.csproj", "{4042AB02-61E0-4FEB-8122-A1E27403519C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{2908456B-3BA9-4074-BC2A-5CD4ACE62FB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{2908456B-3BA9-4074-BC2A-5CD4ACE62FB7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1425091C-330A-47D5-AEB8-3B640BFE54A9}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
