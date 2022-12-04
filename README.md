@@ -45,8 +45,11 @@ Microsoft also suggests to make use of such pattern.
 And lastly this is covered by implementing an IDisposable interface to mark for Garbage Collection.  
 
 
-Area of Improvement :
-1.	I definitely believe this App can be further improved on the Database side by applying Normalization on table structure which can be done by altering Domain models but for the sake of Data Presentation I am currently using one single table.
+For the sake of completeness of this POC I have tried touching on all main points but since there is always a chance for improvement once BackEnd comes into picture hence below are the areas which can be further enhanced -
+1.	Database can further improve by applying Normalization on table structure which can be done by altering Domain models instead of using one single table.
+2.	To store credentials like connection string we can make use of secrets to store connection related information.
+But in order to complete the POC I have kept things simple at above places.
+
 
 I would like to thank Adactin for providing me the oppurtunity to create this POC.
 
