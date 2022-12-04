@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qn7hxBbf5J7TIkrscvNjIELZ1oDvhei6uAIXcQr/X68MX561dHGF2bRJEzg3ibj6Z07EUqMgy2vyS+fEjoTb2w==",
+  "dgSpecHash": "nf1B1/AKEFpzS0kJXMnMFV7w2hFfpmMGfb9YAsWxxTVw93MpX5L4McjHBYxa4Dewas3gTWCoaWCsWLp+yAsLlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\December\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Source\\Repos\\PremiumCalculatorBackEnd\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
