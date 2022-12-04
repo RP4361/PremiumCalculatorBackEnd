@@ -13,7 +13,7 @@ Below Principles and Design Pattern is used in creating this framework :
 	1. Dependency Inversion  
 	2. Interface Segregation  
 	3. Open Closed  
-	4. Repository Pattern with Unit Of Work  
+	4. Generic Repository Pattern with Unit Of Work  
 	
 
 
