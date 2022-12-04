@@ -1,6 +1,7 @@
 # PremiumCalculatorBackEnd
 
-I am using EFCore as ORM mapper tool.
+I am using EFCore as ORM mapper tool.  
+
 As per data provided in mail it is Seeded on first migration along with table creation.
 API is built on .NetCore6
 
