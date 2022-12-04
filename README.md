@@ -1,6 +1,8 @@
 # PremiumCalculatorBackEnd
-Backend Webapi with data layer on EFCore
 
+I am using EFCore as ORM mapper tool.
+As per data provided in mail it is seeded on first migration along with table creation.
+API is built on .NetCore6
 
 The BACKEND is divided into 3 layers :
 	1. Domain
@@ -14,9 +16,7 @@ Below Principles and Design Pattern is used in creating this framework :
 	4. Repository Pattern with Unit Of Work
 	
 
-I am using EFCore as ORM mapper tool.
-As per data provided in mail it is seeded on first migration along with table creation.
-API is built on .NetCore6
+
 
 ---------------------------------------------------------------------------------------------
 
