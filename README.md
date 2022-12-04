@@ -51,7 +51,6 @@ Area of Improvement :
 I would like to thank Adactin for providing me the oppurtunity to create this POC.
 
 
-I would like to thank Adactin for providing me the oppurtunity to create this POC.  
 
 
 
